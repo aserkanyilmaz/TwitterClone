@@ -109,7 +109,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _button_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./button.module.css */ "./components/button.module.css");
 /* harmony import */ var _button_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_button_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\Users\\Seko\\Desktop\\Twitter Clone\\twclone\\components\\button.js";
+var _jsxFileName = "C:\\Users\\Seko\\Desktop\\reactlearner\\twitterClone\\TwitterClone\\twclone\\components\\button.js";
 
 
 
@@ -161,7 +161,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_button__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/button */ "./components/button.js");
 
-var _jsxFileName = "C:\\Users\\Seko\\Desktop\\Twitter Clone\\twclone\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\Seko\\Desktop\\reactlearner\\twitterClone\\TwitterClone\\twclone\\pages\\index.js";
 
 
 
